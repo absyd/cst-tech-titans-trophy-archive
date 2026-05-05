@@ -1,0 +1,43 @@
+{
+  "matches": {
+    "match_1": {
+      "match_id": 1,
+      "status": "live",
+
+      "team1_id": 4,
+      "team2_id": 2,
+
+      "batting_team_id": 4,
+      "bowling_team_id": 2,
+
+      "score": {
+        "runs": 120,
+        "wickets": 3,
+        "overs": "14.2"
+      },
+
+      "batsmen": {
+        "striker": {
+          "name": "Rahim",
+          "runs": 45,
+          "balls": 30
+        },
+        "non_striker": {
+          "name": "Karim",
+          "runs": 20,
+          "balls": 15
+        }
+      },
+
+      "bowler": {
+        "name": "Hasan",
+        "overs": "3.2",
+        "runs": 25,
+        "wickets": 1
+      },
+
+      "last_event": "FOUR",
+      "last_update": 1710000000
+    }
+  }
+}
